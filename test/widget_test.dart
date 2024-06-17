@@ -7,8 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:karagathon/main.dart';
+import 'package:Buoy/main.dart'; // Ensure this import is correct and the path is correct
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
